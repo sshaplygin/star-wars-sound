@@ -1,9 +1,11 @@
-#star-wars-sound
+# star-wars-sound
 
-Original track [link]()
+My implementation [video](implementation.mp4) <br/>
+My [schematics](schematics.png)
 
-Source code from [link](https://gist.github.com/nicksort/4736535)
+# Source 
 
-More thanks @nicksort [link](https://github.com/nicksort)
+Original track [link](https://www.youtube.com/watch?v=-bzWSJG93P8&ab_channel=L) <br/>
+Source code from [link](https://gist.github.com/nicksort/4736535) <br/>
 
-My impelentation [video]()
+More thanks @nicksort [link](https://github.com/nicksort)<br/>
