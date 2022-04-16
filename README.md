@@ -1,7 +1,7 @@
 # star-wars-sound
 
 My implementation [video](implementation.mp4) <br/>
-My [schematics](schematics.png)
+My [schematics](scheme.jpg)
 
 # Source 
 
